@@ -318,9 +318,9 @@ The seed data includes:
 ## Contact Information
 
 For questions or support regarding this database design:
-- **Database Administrator**: dba@company.com
-- **Development Team**: dev@company.com
-- **HR Department**: hr@company.com
+- **Database Administrator**: trinesh.c@everuptime.com
+- **Development Team**: trinesh.c@everuptime.com
+- **HR Department**: trinesh.c@everuptime.com
 
 ## License
 
